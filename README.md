@@ -16,11 +16,11 @@ This repo serves as my organized workspace for all course requirements, includin
 
 👤 Student Information
 
-- Name:[Your Full Name]
+- Name: [Felix, Mark Franics J.]
 
-- Course/Section:[Your Program & Section]
+- Course/Section: [BSIT 4G]
 
-- Instructor:[Name of Instructor]
+- Instructor: [Jenkielyn Cortez Torres]
 
 - School Year: [2026-2027]
 
